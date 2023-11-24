@@ -1,3 +1,3 @@
 # gitnbash
-We created this repository in class on October 30, 2023
-Im trying to write a commit
+Repository created October 30 2023
+I am uploading all the  bash scripts I've created in Linux and AWS shells.
